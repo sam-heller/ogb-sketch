@@ -1,0 +1,14 @@
+{
+  "name": "nanoleaves-roli-bridge",
+  "version": "1.0.0",
+  "description": "Max Patcher and a lil node to control lighting w/ a Roli Block",
+  "main": "nano.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sam@faitaccomp.li",
+  "license": "MIT",
+  "dependencies": {
+    "nanoleaves": "^1.2.0"
+  }
+}
