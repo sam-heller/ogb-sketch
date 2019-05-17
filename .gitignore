@@ -59,3 +59,11 @@ typings/
 
 # next.js build output
 .next
+
+
+# Apparently it's "poor form" to check in music to github
+*.aiff
+*.wav
+*.mp3
+*.flac
+*.ogg

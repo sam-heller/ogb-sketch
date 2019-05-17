@@ -1,0 +1,20 @@
+{
+  "name": "aubio-scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mbd.js",
+  "dependencies": {
+    "create-music-stream": "^1.0.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "meyda": "^4.2.0",
+    "music-beat-detector": "^0.1.1",
+    "nanoleaves": "^1.2.0",
+    "speaker": "^0.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
